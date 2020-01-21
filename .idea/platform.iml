@@ -11,6 +11,28 @@
       <sourceFolder url="file://$MODULE_DIR$/util-ex/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/util-rt/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/util/testSrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/object-serializer/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/object-serializer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/object-serializer/testSrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/platform-cds-agent/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/platform-impl/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/platform-cds-agent/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/platform-resources/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/platform-resources-en/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/platform-tests/testData" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/platform-util-io/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testFramework/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testFramework/testSrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/testFramework/extensions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testFramework/core/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testFramework/bootstrap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testGuiFramework/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testGuiFramework/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/testGuiFramework/testData" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/testRunner/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/util/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/util/ui/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/util-class-loader/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
