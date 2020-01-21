@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42daa101-072e-407f-ae65-7fabb797f4fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Wi0JuPMXRvlxiaOAA2nUkDga3W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42daa101-072e-407f-ae65-7fabb797f4fb" name="Default Changelist" comment="" />
+      <created>1579617039198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579617039198</updated>
+      <workItem from="1579617040633" duration="245000" />
+      <workItem from="1579618351277" duration="1345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3098" y="686" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579619119424">
+      <screen x="1692" y="23" width="3008" height="1669" />
+    </state>
+    <state x="3098" y="686" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1692.2985/1692.23.3008.1669@1692.23.3008.1669" timestamp="1579619119424" />
+    <state x="3020" y="529" key="RollbackChangesDialog" timestamp="1579619283761">
+      <screen x="1692" y="23" width="3008" height="1669" />
+    </state>
+    <state x="3020" y="529" key="RollbackChangesDialog/0.23.1692.2985/1692.23.3008.1669@1692.23.3008.1669" timestamp="1579619283761" />
+    <state x="3278" y="423" width="1335" height="1060" key="SettingsEditor" timestamp="1579619691294">
+      <screen x="1692" y="23" width="3008" height="1669" />
+    </state>
+    <state x="3278" y="423" width="1335" height="1060" key="SettingsEditor/0.23.1692.2985/1692.23.3008.1669@1692.23.3008.1669" timestamp="1579619691294" />
+    <state x="2452" y="158" width="2105" height="1350" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579619400455">
+      <screen x="1692" y="23" width="3008" height="1669" />
+    </state>
+    <state x="2452" y="158" width="2105" height="1350" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1692.2985/1692.23.3008.1669@1692.23.3008.1669" timestamp="1579619400455" />
+    <state x="3202" y="737" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579619674501">
+      <screen x="1692" y="23" width="3008" height="1669" />
+    </state>
+    <state x="3202" y="737" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1692.2985/1692.23.3008.1669@1692.23.3008.1669" timestamp="1579619674501" />
+    <state x="2937" y="471" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1579619064515">
+      <screen x="1692" y="23" width="3008" height="1669" />
+    </state>
+    <state x="2937" y="471" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1692.2985/1692.23.3008.1669@1692.23.3008.1669" timestamp="1579619064515" />
+    <state x="3163" y="421" width="670" height="676" key="search.everywhere.popup" timestamp="1579619434384">
+      <screen x="1692" y="23" width="3008" height="1669" />
+    </state>
+    <state x="3163" y="421" width="670" height="676" key="search.everywhere.popup/0.23.1692.2985/1692.23.3008.1669@1692.23.3008.1669" timestamp="1579619434384" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/platform-api/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/platform-impl/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/platform-main/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/platform-tests/testSrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/util/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/util-ex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/util-rt/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/util/testSrc" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.jetbrains.intellij.deps:trove4j:1.0.20190514" level="project" />
+    <orderEntry type="library" name="org.jetbrains:annotations-java5:18.0.0" level="project" />
+    <orderEntry type="library" name="junit:junit:4.13" level="project" />
+  </component>
+</module>
